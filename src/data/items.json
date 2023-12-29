@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Acer Aspire",
+    "price": 799.99,
+    "imgUrl": "/imgs/AcerAspire.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Asus Notebook",
+    "price": 1199,
+    "imgUrl": "/imgs/AsusNotebook.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "HP Elite",
+    "price": 789.05,
+    "imgUrl": "/imgs/HPElite.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Razor Blade",
+    "price": 1400,
+    "imgUrl": "/imgs/RazorBlade.jpeg"
+  }
+]
